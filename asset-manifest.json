@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Metronome/static/css/main.8f4995c7.chunk.css",
+    "main.js": "/Metronome/static/js/main.cd33b0e5.chunk.js",
+    "main.js.map": "/Metronome/static/js/main.cd33b0e5.chunk.js.map",
+    "runtime-main.js": "/Metronome/static/js/runtime-main.333247e8.js",
+    "runtime-main.js.map": "/Metronome/static/js/runtime-main.333247e8.js.map",
+    "static/js/2.c7c1e5ea.chunk.js": "/Metronome/static/js/2.c7c1e5ea.chunk.js",
+    "static/js/2.c7c1e5ea.chunk.js.map": "/Metronome/static/js/2.c7c1e5ea.chunk.js.map",
+    "index.html": "/Metronome/index.html",
+    "static/css/main.8f4995c7.chunk.css.map": "/Metronome/static/css/main.8f4995c7.chunk.css.map",
+    "static/js/2.c7c1e5ea.chunk.js.LICENSE.txt": "/Metronome/static/js/2.c7c1e5ea.chunk.js.LICENSE.txt",
+    "static/media/highPulse.850b947b.wav": "/Metronome/static/media/highPulse.850b947b.wav",
+    "static/media/lowPulse.48171f6d.wav": "/Metronome/static/media/lowPulse.48171f6d.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.333247e8.js",
+    "static/js/2.c7c1e5ea.chunk.js",
+    "static/css/main.8f4995c7.chunk.css",
+    "static/js/main.cd33b0e5.chunk.js"
+  ]
+}
